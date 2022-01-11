@@ -1,2 +1,2 @@
-# Deepkit-7.0
-## added openai triton support 
+# DeepKitV6.0A
+Instaler for M1 Tensorflow Plugin for CONDA
